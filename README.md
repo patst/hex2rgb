@@ -1,4 +1,4 @@
-# hex2rgb
+# hex2rgb [![Build Status](https://travis-ci.org/dlion/hex2rgb.svg?branch=master)](https://travis-ci.org/dlion/hex2rgb)
 
 Convert HEX color to RGB
 
