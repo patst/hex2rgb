@@ -2,7 +2,7 @@
 
 Convert HEX color to RGB
 
-## How to use
+## How to use it
 
 ```go
 package main
